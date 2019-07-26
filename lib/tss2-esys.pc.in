@@ -1,0 +1,7 @@
+Name: tss2-esys
+Description: TPM2 Enhanced System API library.
+URL: https://github.com/tpm2-software/tpm2-tss
+Version: @VERSION@
+Requires: tss2-mu tss2-sys
+Cflags: -I@includedir@
+Libs: -ltss2-esys -lgcrypt -L@libdir@
