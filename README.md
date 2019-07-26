@@ -65,3 +65,4 @@ Feel free to submit Github issues, pull requests, or contact the following maint
 
 - Minghua Wang: [Github](https://github.com/MinghuaWang), [Email](mailto:wangminghua01@baidu.com)
 - Yulong Zhang: [Github](https://github.com/yulongzhang), [Email](mailto:ylzhang@baidu.com)
+- Qian Feng: [Github](https://github.com/qian-feng), [Email](mailto:fengqian@baidu.com)
